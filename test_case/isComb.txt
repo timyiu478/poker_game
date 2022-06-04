@@ -1,0 +1,24 @@
+Input #1:
+isComb ["Ah","Kh","Qh","Jh","Oh"]
+Output #1:
+True
+
+Input #2:
+isComb ["Ah","Kh","Qh","Jh","3s"]
+Output #2:
+False
+
+Input #3:
+isComb ["5s","4d","3c","Ah","2s"]
+Output #3:
+False
+
+Input #4:
+isComb ["Ks","Kd","Kc","Ah","2s"]
+Output #4:
+False
+
+Input #5:
+isComb ["Jh","Jc","Jd","Qs","Qh"]
+Output #5:
+True

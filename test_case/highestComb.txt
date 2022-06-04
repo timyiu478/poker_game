@@ -1,0 +1,24 @@
+Input #1:
+highestComb ["3c","3s","3d","6c","6h","8h","8s"]
+Output #1:
+["3c","3s","3d","8c","8h"]
+
+Input #2:
+highestComb ["Ah","6s"]
+Output #2:
+[]
+
+Input #3:
+highestComb ["2s","3d","4c","5h","6s","7d","8c","9h","Os","Jd","Qc","Kh","As"]
+Output #3:
+["Os","Jd","Qc","Kh","As"]
+
+Input #4:
+highestComb ["2s","3d","4d","5s","5h","6d","7d","8c","9h","Os","Jd","Qc","Kh","Ks","Kd","As"]
+Output #4:
+["Kh","Ks","Kd","5s","5h"]
+
+Input #5:
+highestComb ["2s","3s","4s","5s","6s","7s","8s","9s","Os","Js","Qs","Ks","As","2d","2c","2h","5d","5c","5h"]
+Output #5:
+["Os","Js","Qs","Ks","As"]
